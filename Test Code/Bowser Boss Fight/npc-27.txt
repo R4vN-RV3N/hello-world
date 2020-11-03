@@ -1,0 +1,10 @@
+gfxwidth=280
+gfxheight=200
+gfxoffsetx=48
+gfxoffsety=20
+gfxsplitheight=1000
+frames=5
+framespeed=8
+width=48
+height=88
+scripts=bowspunch
